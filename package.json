@@ -13,7 +13,15 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "electron": "^2.0.4",
+    "electron": "^2.0.5",
     "electron-packager": "^12.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeklevi/FirstElectronProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/geeklevi/FirstElectronProject/issues"
+  },
+  "homepage": "https://github.com/geeklevi/FirstElectronProject#readme"
 }
